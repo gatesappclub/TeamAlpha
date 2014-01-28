@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<scene depth="1" desc="" eventsnippetid="0" extheight="384" extwidth="544" extx="-32" exty="-32" format="2.1" gravx="-0.0" gravy="0.0" height="320" id="0" name="loltest" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="480">
+<scene depth="1" desc="" eventsnippetid="0" extheight="384" extwidth="544" extx="-32" exty="-32" format="2.1" gravx="-0.0" gravy="35.0" height="320" id="0" name="loltest" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="480">
     <layers>
         <layer color="100,168,234" id="0" name="Layer 0" order="0"/>
     </layers>
@@ -9,7 +9,13 @@
     <joints/>
     <regions/>
     <terrainRegions/>
-    <actors/>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="3" id="0" name="test actor 1" sx="1.0" sy="1.0" x="10" y="141" z="0"/>
+        <actor a="0.0" aid="2" c="false" group="3" id="0" name="test actor 2" sx="1.0" sy="1.0" x="193" y="60" z="0"/>
+        <actor a="0.0" aid="3" c="false" group="3" id="0" name="test actor 3" sx="1.0" sy="1.0" x="307" y="175" z="0"/>
+    </actors>
     <snippets/>
-    <terrain/>
+    <terrain>
+        <p pts="4,480.0,0.0,480.0,32.0,0.0,32.0,0.0,0.0" x="0.0" y="288.0"/>
+    </terrain>
 </scene>
